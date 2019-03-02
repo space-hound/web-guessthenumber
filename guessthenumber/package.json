@@ -1,0 +1,40 @@
+{
+  "name": "guessthenumber",
+  "version": "1.0.0",
+  "description": "guess the number to win nothing",
+  "main": "main.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --mode development --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/space-hound/web-guessthenumber.git"
+  },
+  "keywords": [
+    "oranges",
+    "sandals",
+    "percival",
+    "ebony",
+    "litter",
+    "cats"
+  ],
+  "author": "Borz Alexandru Mihai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/space-hound/web-guessthenumber/issues"
+  },
+  "homepage": "https://github.com/space-hound/web-guessthenumber#readme",
+  "devDependencies": {
+    "css-loader": "^2.1.0",
+    "html-webpack-plugin": "^3.2.0",
+    "mini-css-extract-plugin": "^0.5.0",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.0"
+  }
+}
