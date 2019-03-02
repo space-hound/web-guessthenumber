@@ -7,15 +7,13 @@ guess the number to win nothing!
 ---
 
  ### code here
-  - [Looking for code?](guessthegame/)
+  - [Looking for code?](guessthenumber/)
   
 ----
 
  ### live preview here
-  - [Looking for this?](https://space-hound.github.io/web-guessthegame/)
+  - [Looking for this?](https://space-hound.github.io/web-guessthenumber/)
 
 ----
 
 </br>
-
-`Nov 2018`
